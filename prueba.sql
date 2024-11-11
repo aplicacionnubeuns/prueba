@@ -25,12 +25,12 @@ INSERT INTO s_cliente VALUES ('302', 'Toms Sporting Goods', '540-987-6543','6741
 INSERT INTO s_cliente VALUES ('303', 'Athletic Attire', '540-123-6789','54 Market St', 'Harrisonburg', 'VA','US', '22808','BUENA', '14', '1', NULL);
 INSERT INTO s_cliente VALUES ('304', 'Athletics For All', '540-987-1234','286 Main St', 'Harrisonburg', 'VA', 'US', '22808','EXCELENTE', '12', '1', NULL);
 INSERT INTO s_cliente VALUES ('305', 'Shoes for Sports', '540-123-9876','538 High St', 'Harrisonburg', 'VA','US', '22809','EXCELENTE', '14', '1', NULL);
-INSERT INTO s_cliente VALUES ('306', 'BJ Athletics', '540-987-9999','632 Water St', 'Harrisonburg', 'VA','US', '22810','POOR', '12', '1', NULL);
+INSERT INTO s_cliente VALUES ('306', 'BJ Athletics', '540-987-9999','632 Water St', 'Harrisonburg', 'VA','US', '22810','MALA', '12', '1', NULL);
 
 INSERT INTO s_cliente VALUES ('403', 'Athletics One', '717-234-6786','912 Columbia Rd', 'Lancaster', 'PA','US', '17601','BUENA', '14', '1', NULL);
 INSERT INTO s_cliente VALUES ('404', 'Great Athletes', '717-987-2341','121 Litiz Pike', 'Lancaster', 'PA','US', '17602','EXCELENTE', '12', '1', NULL);
 INSERT INTO s_cliente VALUES ('405', 'Athletics Two', '717-987-9875','435 High Rd', 'Lancaster', 'PA','US', '17602','EXCELENTE', '14', '1', NULL);
-INSERT INTO s_cliente VALUES ('406', 'Athletes Attic', '717-234-9888','101 Greenfield Rd', 'Lancaster', 'PA','US', '17601','POOR', '12', '1', NULL);
+INSERT INTO s_cliente VALUES ('406', 'Athletes Attic', '717-234-9888','101 Greenfield Rd', 'Lancaster', 'PA','US', '17601','MALA', '12', '1', NULL);
 
 INSERT INTO s_cliente VALUES ('201', 'One Sport', '55-112066222','82 Via Bahia', 'Sao Paolo', NULL, 'Brazil', NULL,'EXCELENTE', '12', '2', NULL);
 INSERT INTO s_cliente VALUES ('202', 'Deportivo Caracas', '58-28066222','31 Sabana Grande', 'Caracas', NULL, 'Venezuela', NULL,'EXCELENTE', '12', '2', NULL);
@@ -46,6 +46,6 @@ INSERT INTO s_cliente VALUES ('210', 'Futbol Sonora', '52-404555','5 Via Saguaro
 INSERT INTO s_cliente VALUES ('211', 'Helmut''s Sports', '42-2111222','45 Modrany', 'Prague', NULL, 'Czechoslovakia', NULL,'EXCELENTE', '11', '5', NULL);
 INSERT INTO s_cliente VALUES ('212', 'Hamada Sport', '20-31209222','47A Corniche', 'Alexandria', NULL, 'Egypt', NULL,'EXCELENTE', '13', '3', NULL);
 INSERT INTO s_cliente VALUES ('213', 'Sports Emporium', '1-415-555-6281','4783 168th Street', 'San Francisco', 'CA', 'US', NULL,'EXCELENTE', '11', '1', NULL);
-INSERT INTO s_cliente VALUES ('214', 'Sports Retail', '1-716-555-7777','115 Main Street', 'Buffalo', 'NY', 'US', NULL, 'POOR', '11', '1', NULL);
+INSERT INTO s_cliente VALUES ('214', 'Sports Retail', '1-716-555-7777','115 Main Street', 'Buffalo', 'NY', 'US', NULL, 'MALA', '11', '1', NULL);
 INSERT INTO s_cliente VALUES ('215', 'Sports Russia', '7-0953892444','7070 Yekatamina', 'Saint Petersburg', NULL, 'Russia', NULL,'POOR', '11', '5', NULL);
 COMMIT;
