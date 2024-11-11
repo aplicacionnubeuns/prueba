@@ -20,7 +20,6 @@ CREATE TABLE s_cliente
   CHECK (calificacion_crediticia IN ('EXCELENTE', 'BUENA', 'MALA'))
  );
 
-
 INSERT INTO s_cliente VALUES ('301', 'Sports,Inc', '540-123-4567','72 High St', 'Harrisonburg', 'VA','US', '22809','EXCELENTE', '12', '1', NULL);
 INSERT INTO s_cliente VALUES ('302', 'Toms Sporting Goods', '540-987-6543','6741 Main St','Harrisonburg', 'VA','US', '22809','MALA', '14', '1', NULL);
 INSERT INTO s_cliente VALUES ('303', 'Athletic Attire', '540-123-6789','54 Market St', 'Harrisonburg', 'VA','US', '22808','BUENA', '14', '1', NULL);
