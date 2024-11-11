@@ -25,7 +25,6 @@ INSERT INTO s_cliente VALUES ('302', 'Toms Sporting Goods', '540-987-6543','6741
 INSERT INTO s_cliente VALUES ('303', 'Athletic Attire', '540-123-6789','54 Market St', 'Harrisonburg', 'VA','US', '22808','BUENA', '14', '1', NULL);
 INSERT INTO s_cliente VALUES ('304', 'Athletics For All', '540-987-1234','286 Main St', 'Harrisonburg', 'VA', 'US', '22808','EXCELENTE', '12', '1', NULL);
 INSERT INTO s_cliente VALUES ('305', 'Shoes for Sports', '540-123-9876','538 High St', 'Harrisonburg', 'VA','US', '22809','EXCELENTE', '14', '1', NULL);
-INSERT INTO s_cliente VALUES ('306', 'BJ Athletics', '540-987-9999','632 Water St', 'Harrisonburg', 'VA','US', '22810','MALA', '12', '1', NULL);
 
 INSERT INTO s_cliente VALUES ('403', 'Athletics One', '717-234-6786','912 Columbia Rd', 'Lancaster', 'PA','US', '17601','BUENA', '14', '1', NULL);
 INSERT INTO s_cliente VALUES ('404', 'Great Athletes', '717-987-2341','121 Litiz Pike', 'Lancaster', 'PA','US', '17602','EXCELENTE', '12', '1', NULL);
