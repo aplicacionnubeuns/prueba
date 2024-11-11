@@ -46,5 +46,5 @@ INSERT INTO s_cliente VALUES ('211', 'Helmut''s Sports', '42-2111222','45 Modran
 INSERT INTO s_cliente VALUES ('212', 'Hamada Sport', '20-31209222','47A Corniche', 'Alexandria', NULL, 'Egypt', NULL,'EXCELENTE', '13', '3', NULL);
 INSERT INTO s_cliente VALUES ('213', 'Sports Emporium', '1-415-555-6281','4783 168th Street', 'San Francisco', 'CA', 'US', NULL,'EXCELENTE', '11', '1', NULL);
 INSERT INTO s_cliente VALUES ('214', 'Sports Retail', '1-716-555-7777','115 Main Street', 'Buffalo', 'NY', 'US', NULL, 'MALA', '11', '1', NULL);
-INSERT INTO s_cliente VALUES ('215', 'Sports Russia', '7-0953892444','7070 Yekatamina', 'Saint Petersburg', NULL, 'Russia', NULL,'POOR', '11', '5', NULL);
+INSERT INTO s_cliente VALUES ('215', 'Sports Russia', '7-0953892444','7070 Yekatamina', 'Saint Petersburg', NULL, 'Russia', NULL,'MALA', '11', '5', NULL);
 COMMIT;
