@@ -9,7 +9,7 @@ CREATE TABLE s_cliente
   direccion                  VARCHAR(20),
   ciudad                     VARCHAR(20),
   provincia                  VARCHAR(15),
-  pais	                  VARCHAR(20),
+  pais	                      VARCHAR(20),
   codigo_postal              VARCHAR(15),
   calificacion_crediticia    VARCHAR(9),
   representante_ventas_id    VARCHAR(3),
